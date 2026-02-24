@@ -8,7 +8,7 @@ The service relies on HTTP and clients request images by using the /photos/rando
 
 ## Communication Contract
 
-Base URL:
+Base URL (Will Be Made Live for Production):
 
 - `busy-beavers-random-images-microservice-api.com/`
 
