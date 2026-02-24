@@ -34,7 +34,7 @@ def call_random_photos(base_url: str, query: str, amount: int) -> None:
 def main():
     # Localhost url
     base_url = "http://127.0.0.1:5000"
-    query = "test"
+    query = "cat"
     amount = 5
 
     # Extract the paramters that were provided by client
